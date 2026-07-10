@@ -120,3 +120,7 @@ except:
 # 2.append a
 # 3.write w
 # 4.creat x
+# 
+# after that we need to close the file also
+# f = open("file_name") default mode is read r
+# f.close()
